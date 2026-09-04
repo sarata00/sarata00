@@ -8,4 +8,4 @@ I'm Sara and I'm a Research Engineer at the [Computational Biology group](https:
 
 - 🌱 Currently learning about protein language models and their capabilities to study biological properties.
 - 💬 Feel free to reach out with any questions you have!!
-- 📫 You can do it by e-mail (saratolosaalarcon@gmail.com) or by [LinkedIn](https://www.linkedin.com/in/saratolosaalarc%C3%B3n/)
+- 📫 You can do it by e-mail (saratolosaalarcon@gmail.com) or by [LinkedIn](https://www.linkedin.com/in/saratolosaalarcon/)
